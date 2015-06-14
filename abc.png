@@ -1,3 +1,0 @@
-git add abc.png
-git commit -m 'add png file'
-git push -u origin master
